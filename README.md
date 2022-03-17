@@ -6,7 +6,13 @@ Mainly it was created to help myself to recall everything I learned, but I hope 
 ____
 ## Table of contents
   1. [Python basics](basics.ipynb)
-  2. [Main data types]()
-  3. [Data Structures in `python']()
-  4. [Conditions]()
-  5. [Loops]()
+  2. [Conditions](conditions.ipynb)
+  3. [Loops](loops.ipynb)
+  4. [Main data types](data_types.ipynb)
+  5. [Strings](strings.ipynb)
+  6. [Lists](lists.ipynb)
+  7. [Sets](sets.ipynb)
+  8. [Tuples](tuples.ipynb)
+  9. [Dictionaries](dictionaries.ipynb)
+  
+
