@@ -1,0 +1,5 @@
+Washington 83 77 54
+Adams 86 69 90
+Jacobson 50 49 71
+MacDonald 100 99 100
+Berrington 66 67 64
