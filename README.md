@@ -5,13 +5,18 @@ I split the notes by the main topics for easier navigation. <p>
 Mainly it was created to help myself to recall everything I learned, but I hope it can be aslo useful for all who just started learning `python`. <p>
 ____
 ## Table of contents
-  1. [Python basics](basics.ipynb)
-  2. [Conditions](conditions.ipynb)
-  3. [Loops](loops.ipynb)
-  4. [Main data types](data_types.ipynb)
-  5. [Strings](strings.ipynb)
-  6. [Lists](lists.ipynb)
-  7. [Sets](sets.ipynb)
-  8. [Tuples](tuples.ipynb)
-  9. [Dictionaries](dictionaries.ipynb)
-  10. [File input/output](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/file_io.ipynb)
+  
+### Main
+  1. [Python basics](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/basics.ipynb)
+  2. [Conditions](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/conditions.ipynb)
+  3. [Loops](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/loops.ipynb)
+  4. [Main data types](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/data_types.ipynb)
+  5. [File input/output](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/file_io.ipynb)
+  
+### Data Structures  
+  1. [Strings](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/data_structures/strings.ipynb)
+  2. [Lists](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/data_structures/lists.ipynb)
+  3. [Sets](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/data_structures/sets.ipynb)
+  4. [Tuples](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/data_structures/tuples.ipynb)
+  5. [Dictionaries](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/data_structures/dictionaries.ipynb)
+
