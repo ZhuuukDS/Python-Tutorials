@@ -15,5 +15,6 @@ ____
   8. [Tuples](tuples.ipynb)
   9. [Dictionaries](dictionaries.ipynb)
   10. [File input/output](https://nbviewer.org/github/ZhuuukDS/python_tutorials/blob/main/file_io.ipynb)
+  11. [File input/output](file_io.ipynb)
   
 
